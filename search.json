@@ -1266,7 +1266,7 @@
     "checkType": {
       "type": "GitHub",
       "repo": "hebiiro/al2_slimming",
-      "regex": "^al2_slimming.*\\.au2pkg\\.zip$",
+      "regex": "^al2_slimming.*\\.zip$",
       "hash-calc": [
         {
           "extract": "zip",
@@ -1286,7 +1286,7 @@
     "checkType": {
       "type": "GitHub",
       "repo": "hebiiro/al2_ui_dressing",
-      "regex": "^al2_ui_dressing.*\\.au2pkg\\.zip$",
+      "regex": "^al2_ui_dressing.*\\.zip$",
       "hash-calc": [
         {
           "extract": "zip",
@@ -1306,7 +1306,7 @@
     "checkType": {
       "type": "GitHub",
       "repo": "hebiiro/al2_preset_adder",
-      "regex": "^al2_preset_adder.*\\.au2pkg\\.zip$",
+      "regex": "^al2_preset_adder.*\\.zip$",
       "hash-calc": [
         {
           "extract": "zip",
