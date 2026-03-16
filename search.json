@@ -1326,7 +1326,7 @@
     "checkType": {
       "type": "GitHub",
       "repo": "hebiiro/al2_visual_font",
-      "regex": "^al2_visual_font.*\\.au2pkg\\.zip$",
+      "regex": "^al2_visual_font.*\\.zip$",
       "hash-calc": [
         {
           "extract": "zip",
