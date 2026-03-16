@@ -14399,7 +14399,7 @@
     "description": "https://raw.githubusercontent.com/hebiiro/al2_ui_dressing/refs/heads/master/README.md",
     "author": "蛇色",
     "repoURL": "https://github.com/hebiiro/al2_ui_dressing",
-    "latest-version": "r2",
+    "latest-version": "r3",
     "popularity": 989,
     "trend": 239,
     "licenses": [
@@ -14494,6 +14494,11 @@
             "XXH3_128": "aac1461f2afe1880830dd3403aee2a44"
           }
         ]
+      },
+      {
+        "version": "r3",
+        "release_date": "2026-03-16",
+        "file": []
       }
     ]
   },
