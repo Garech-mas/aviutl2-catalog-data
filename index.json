@@ -9279,7 +9279,7 @@
     "description": "https://raw.githubusercontent.com/hebiiro/al2_preset_adder/refs/heads/master/README.md",
     "author": "蛇色",
     "repoURL": "https://github.com/hebiiro/al2_preset_adder",
-    "latest-version": "r3",
+    "latest-version": "r4",
     "popularity": 579,
     "trend": 109,
     "licenses": [
@@ -9391,6 +9391,11 @@
             "XXH3_128": "0a0cb620a6420d3082603ef567a82b01"
           }
         ]
+      },
+      {
+        "version": "r4",
+        "release_date": "2026-03-16",
+        "file": []
       }
     ]
   },
@@ -13492,7 +13497,7 @@
     "description": "https://raw.githubusercontent.com/hebiiro/al2_slimming/refs/heads/master/README.md",
     "author": "蛇色",
     "repoURL": "https://github.com/hebiiro/al2_slimming",
-    "latest-version": "r2",
+    "latest-version": "r3",
     "popularity": 838,
     "trend": 170,
     "licenses": [
@@ -13582,6 +13587,11 @@
             "XXH3_128": "dda9903cba2b1ab145cc4736d9644a8b"
           }
         ]
+      },
+      {
+        "version": "r3",
+        "release_date": "2026-03-16",
+        "file": []
       }
     ]
   },
