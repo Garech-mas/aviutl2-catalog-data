@@ -2137,7 +2137,7 @@
   },
   {
     "id": "KAZOON.resize_ks",
-    "latest-version": "v0.0.0",
+    "latest-version": "v0.0.1",
     "checkType": {
       "type": "GitHub",
       "repo": "cycloawaodorin/resize_ks",
