@@ -18889,5 +18889,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "Nagomiku.NagoEffect2.mod2",
+    "name": "NagoEffect2.mod2",
+    "type": "スクリプトモジュール",
+    "summary": "Nagomiku氏が作成する一部スクリプトに必須なスクリプトモジュール",
+    "description": "./md/Nagomiku.NagoEffect2.mod2.md",
+    "author": "Nagomiku",
+    "repoURL": "https://scrapbox.io/nanikani-shugo/NagoEffect2.mod2",
+    "latest-version": "v1.00",
+    "popularity": 0,
+    "trend": 0,
+    "licenses": [
+      {
+        "type": "不明",
+        "isCustom": true,
+        "copyrights": [],
+        "licenseBody": ""
+      }
+    ],
+    "tags": [],
+    "dependencies": [],
+    "images": [
+      {
+        "infoImg": [
+          "./image/Nagomiku.NagoEffect2.mod2_1.png"
+        ]
+      }
+    ],
+    "installer": {
+      "source": {
+        "GoogleDrive": {
+          "id": "1z4emRYgdB6iDym_77XgvjRALol_LNhQn"
+        }
+      },
+      "install": [
+        {
+          "action": "download"
+        },
+        {
+          "action": "copy",
+          "from": "{tmp}/NagoEffect2.mod2",
+          "to": "{scriptsDir}"
+        }
+      ],
+      "uninstall": [
+        {
+          "action": "delete",
+          "path": "{scriptsDir}/NagoEffect2.mod2"
+        }
+      ]
+    },
+    "version": [
+      {
+        "version": "v1.00",
+        "release_date": "2025-10-13",
+        "file": [
+          {
+            "path": "{scriptsDir}/NagoEffect2.mod2",
+            "XXH3_128": "7f3c589fe1646bed058973072992ae8e"
+          }
+        ]
+      }
+    ]
   }
 ]
